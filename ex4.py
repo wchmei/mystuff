@@ -1,6 +1,7 @@
 # -*- coding: utf:8 -*-
 cars = 100
-space_in_a_car =4.0
+#人是整数型，不需要使用浮点数
+space_in_a_car = 4
 drivers = 30
 passengers = 90
 cars_not_driven = cars - drivers
