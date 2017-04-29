@@ -8,3 +8,4 @@ print 'Yay! printing'
 print "I'd much rather you 'not'."
 print 'I "said" do not touch this.'
 print 'wcm learn python again'
+print "vscode new set"
