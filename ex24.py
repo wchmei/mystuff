@@ -27,9 +27,10 @@ start_point = 10000
 beans, jars, crates = secret_formula(start_point)
 
 print "With a starting ponit of: %d" % start_point
-print "We'd have %d beans, %d jars, and %d crates." %(crates, jars, crates)
+print "We'd have %d beans, %d jars, and %d crates." %(beans, jars, crates)
 
-start_point = start_point  /10
+start_point = start_point  / 10
 
 print "We can also do that this way:"
+# 函数返回三个结果可以直接调用
 print "We'd have %d beans, %d jars, and %d crates." % secret_formula(start_point)
