@@ -2,6 +2,7 @@
 people = 30 
 cars = 40
 buses = 15
+# 如果多个elif都是True，只会返回第一个
 
 if cars > people:
     print "We should take the cars."
