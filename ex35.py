@@ -28,10 +28,10 @@ def bear_room():
             dead("The bear looks at you then slaps your face off.")
         elif next == "taunt bear" and not bear_moved:
             print "The bear has moved from the door. you can go through it now."
-            bear_move = True
+            bear_moved = True
         elif next == "taunt bear" and bear_moved:
             dead("The bear gets plssed off and chews your lef off.")
-        elif next =="Open door" and bear_moved:
+        elif next == "Open door" and bear_moved:
             gold_room()
         else:
             print "I got no idea what that means."
