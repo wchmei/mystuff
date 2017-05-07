@@ -1,6 +1,9 @@
 # -*- coding: utf-8 -*-
 from sys import exit
-
+'''
+2 最好的调试程序的方法是使用print再各个想要检查的关键环节将关键变量打印出来
+3 让程序一部分一部分的运行起来。不要等一个很长的脚本写完以后才去运行它，写一点运行一点，再修改一点
+'''
 def gold_room():
     print "This romm is full of gold. How much do you take?"
 
