@@ -57,7 +57,7 @@ def start():
     print "You are in a dark room."
     print "There is a door to your right and left."
     print "Which one do you take."
-    
+
     next = raw_input("> ")
     if next == "left":
         bear_room()
@@ -67,6 +67,3 @@ def start():
         dead("You stumble around the romm until you starve.")
 
 start()
-
-
-        
