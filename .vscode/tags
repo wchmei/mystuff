@@ -1,0 +1,166 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+add	mystuff\ex21.py	/^def add(a, b):$/;"	kind:function	line:2
+age	mystuff\ex11.py	/^age = raw_input()$/;"	kind:variable	line:3
+age	mystuff\ex12.py	/^age = raw_input("How old are you? ")$/;"	kind:variable	line:3
+age	mystuff\ex21.py	/^age = add(30, 5)$/;"	kind:variable	line:20
+age	mystuff\ex5.py	/^age = 30 # not a lie$/;"	kind:variable	line:6
+amount_of_cheese	mystuff\ex19.py	/^amount_of_cheese = 10$/;"	kind:variable	line:12
+amount_of_crackers	mystuff\ex19.py	/^amount_of_crackers = 50$/;"	kind:variable	line:13
+argv	mystuff\ex13.py	/^from sys import argv$/;"	kind:namespace	line:5
+argv	mystuff\ex14.py	/^from sys import argv$/;"	kind:namespace	line:2
+argv	mystuff\ex15.py	/^from sys import argv$/;"	kind:namespace	line:2
+argv	mystuff\ex16.py	/^from sys import argv$/;"	kind:namespace	line:2
+argv	mystuff\ex17.py	/^from sys import argv$/;"	kind:namespace	line:2
+argv	mystuff\ex20.py	/^from sys import argv$/;"	kind:namespace	line:2
+average_passengers_per_car	mystuff\ex4.py	/^average_passengers_per_car = passengers \/ cars_driven$/;"	kind:variable	line:10
+backslash_cat	mystuff\ex10.py	/^backslash_cat ="I'm \\\\ a \\\\ cat."$/;"	kind:variable	line:9
+bear	mystuff\ex31.py	/^    bear = raw_input(">  ")$/;"	kind:variable	line:10
+bear_room	mystuff\ex35.py	/^def bear_room():$/;"	kind:function	line:22
+binary	mystuff\ex6.py	/^binary = "binary"$/;"	kind:variable	line:3
+break_words	mystuff\ex25.py	/^def break_words(stuff):$/;"	kind:function	line:2
+buses	mystuff\ex30.py	/^buses = 15$/;"	kind:variable	line:4
+carpool_capacity	mystuff\ex4.py	/^carpool_capacity = cars_driven * space_in_a_car$/;"	kind:variable	line:9
+cars	mystuff\ex30.py	/^cars = 40$/;"	kind:variable	line:3
+cars	mystuff\ex4.py	/^cars = 100$/;"	kind:variable	line:2
+cars_driven	mystuff\ex4.py	/^cars_driven = drivers$/;"	kind:variable	line:8
+cars_not_driven	mystuff\ex4.py	/^cars_not_driven = cars - drivers$/;"	kind:variable	line:7
+cats	mystuff\ex29.py	/^cats = 30$/;"	kind:variable	line:3
+change	mystuff\ex32.py	/^change = [1, 'pennies', 2, 'dimes', 3, 'quarters']$/;"	kind:variable	line:4
+cheese_and_crackers	mystuff\ex19.py	/^def cheese_and_crackers(cheese_count, boxes_of_crackers):$/;"	kind:function	line:2
+cities	mystuff\ex39.py	/^cities ={$/;"	kind:variable	line:11
+computer	mystuff\ex14.py	/^computer = raw_input(prompt)$/;"	kind:variable	line:18
+cthulhu_room	mystuff\ex35.py	/^def cthulhu_room():$/;"	kind:function	line:42
+current_file	mystuff\ex20.py	/^current_file = open(input_file)$/;"	kind:variable	line:15
+days	mystuff\ex9.py	/^days = "Mon Tue Wed Thu Fri Sat Sun"$/;"	kind:variable	line:3
+dead	mystuff\ex35.py	/^def dead(why):$/;"	kind:function	line:55
+divide	mystuff\ex21.py	/^def divide(a, b):$/;"	kind:function	line:14
+do_not	mystuff\ex6.py	/^do_not = "don't"$/;"	kind:variable	line:4
+dogs	mystuff\ex29.py	/^dogs = 15$/;"	kind:variable	line:4
+door	mystuff\ex31.py	/^door = raw_input("> ")$/;"	kind:variable	line:4
+drivers	mystuff\ex4.py	/^drivers = 30$/;"	kind:variable	line:5
+e	mystuff\ex6.py	/^e = "a string with a rigth side."$/;"	kind:variable	line:23
+elements	mystuff\ex32.py	/^elements = []$/;"	kind:variable	line:20
+end1	mystuff\ex7.py	/^end1 = "C"$/;"	kind:variable	line:7
+end10	mystuff\ex7.py	/^end10 = "g"$/;"	kind:variable	line:16
+end11	mystuff\ex7.py	/^end11 = "e"$/;"	kind:variable	line:17
+end12	mystuff\ex7.py	/^end12 = "r"$/;"	kind:variable	line:18
+end2	mystuff\ex7.py	/^end2 = "h"$/;"	kind:variable	line:8
+end3	mystuff\ex7.py	/^end3 = "e"$/;"	kind:variable	line:9
+end4	mystuff\ex7.py	/^end4 = "e"$/;"	kind:variable	line:10
+end5	mystuff\ex7.py	/^end5 = "s"$/;"	kind:variable	line:11
+end6	mystuff\ex7.py	/^end6 = "e"$/;"	kind:variable	line:12
+end7	mystuff\ex7.py	/^end7 = "B"$/;"	kind:variable	line:13
+end8	mystuff\ex7.py	/^end8 = "u"$/;"	kind:variable	line:14
+end9	mystuff\ex7.py	/^end9 = "r"$/;"	kind:variable	line:15
+enter_something	mystuff\ex13.py	/^enter_something = raw_input("Plz enter first variable:")$/;"	kind:variable	line:16
+ex1.py	mystuff\ex1.py	1;"	kind:file	line:1
+ex10.py	mystuff\ex10.py	1;"	kind:file	line:1
+ex11.py	mystuff\ex11.py	1;"	kind:file	line:1
+ex12.py	mystuff\ex12.py	1;"	kind:file	line:1
+ex13.py	mystuff\ex13.py	1;"	kind:file	line:1
+ex14.py	mystuff\ex14.py	1;"	kind:file	line:1
+ex15.py	mystuff\ex15.py	1;"	kind:file	line:1
+ex16.py	mystuff\ex16.py	1;"	kind:file	line:1
+ex17.py	mystuff\ex17.py	1;"	kind:file	line:1
+ex18.py	mystuff\ex18.py	1;"	kind:file	line:1
+ex19.py	mystuff\ex19.py	1;"	kind:file	line:1
+ex2.py	mystuff\ex2.py	1;"	kind:file	line:1
+ex20.py	mystuff\ex20.py	1;"	kind:file	line:1
+ex21.py	mystuff\ex21.py	1;"	kind:file	line:1
+ex24.py	mystuff\ex24.py	1;"	kind:file	line:1
+ex25.py	mystuff\ex25.py	1;"	kind:file	line:1
+ex29.py	mystuff\ex29.py	1;"	kind:file	line:1
+ex3.py	mystuff\ex3.py	1;"	kind:file	line:1
+ex30.py	mystuff\ex30.py	1;"	kind:file	line:1
+ex31.py	mystuff\ex31.py	1;"	kind:file	line:1
+ex32.py	mystuff\ex32.py	1;"	kind:file	line:1
+ex33.py	mystuff\ex33.py	1;"	kind:file	line:1
+ex35.py	mystuff\ex35.py	1;"	kind:file	line:1
+ex37.py	mystuff\ex37.py	1;"	kind:file	line:1
+ex38.py	mystuff\ex38.py	1;"	kind:file	line:1
+ex39.py	mystuff\ex39.py	1;"	kind:file	line:1
+ex4.py	mystuff\ex4.py	1;"	kind:file	line:1
+ex5.py	mystuff\ex5.py	1;"	kind:file	line:1
+ex6.py	mystuff\ex6.py	1;"	kind:file	line:1
+ex7.py	mystuff\ex7.py	1;"	kind:file	line:1
+ex8.py	mystuff\ex8.py	1;"	kind:file	line:1
+ex9.py	mystuff\ex9.py	1;"	kind:file	line:1
+exists	mystuff\ex17.py	/^from os.path import exists$/;"	kind:namespace	line:3
+exit	mystuff\ex35.py	/^from sys import exit$/;"	kind:namespace	line:2
+eyes	mystuff\ex5.py	/^eyes = 'Brown'$/;"	kind:variable	line:9
+file_again	mystuff\ex15.py	/^file_again = raw_input(">")$/;"	kind:variable	line:12
+five	mystuff\ex24.py	/^five = 10 - 2 + 3 -6$/;"	kind:variable	line:17
+formatter	mystuff\ex8.py	/^formatter = "%r %r %r %r"$/;"	kind:variable	line:2
+fruits	mystuff\ex32.py	/^fruits = ['apples', 'orange', 'pears', 'apricots']$/;"	kind:variable	line:3
+gold_room	mystuff\ex35.py	/^def gold_room():$/;"	kind:function	line:7
+hair	mystuff\ex5.py	/^hair = 'Black'$/;"	kind:variable	line:11
+heigth	mystuff\ex11.py	/^heigth = raw_input()$/;"	kind:variable	line:6
+heigth	mystuff\ex12.py	/^heigth = raw_input("How tall are you? ")$/;"	kind:variable	line:4
+heigth	mystuff\ex21.py	/^heigth = subtract(78, 4)$/;"	kind:variable	line:21
+heigth	mystuff\ex5.py	/^heigth = 175 # CM$/;"	kind:variable	line:7
+hilarious	mystuff\ex6.py	/^hilarious = False$/;"	kind:variable	line:13
+i	mystuff\ex33.py	/^i = 0 $/;"	kind:variable	line:7
+indata	mystuff\ex17.py	/^indata = open(from_file).read()$/;"	kind:variable	line:12
+insanity	mystuff\ex31.py	/^    insanity = raw_input("> ")$/;"	kind:variable	line:23
+iq	mystuff\ex21.py	/^iq = divide(100, 2)$/;"	kind:variable	line:23
+joke_evaluation	mystuff\ex6.py	/^joke_evaluation = "Isn't that joke so funny?! %r" $/;"	kind:variable	line:15
+joke_evaluation1	mystuff\ex6.py	/^joke_evaluation1 = "Isn't that joke so funny?! %s"$/;"	kind:variable	line:17
+likes	mystuff\ex14.py	/^likes = raw_input(prompt)$/;"	kind:variable	line:12
+line1	mystuff\ex16.py	/^line1 = raw_input("line 1:")$/;"	kind:variable	line:21
+line2	mystuff\ex16.py	/^line2 = raw_input("line 2:")$/;"	kind:variable	line:22
+line3	mystuff\ex16.py	/^line3 = raw_input("line 3:")$/;"	kind:variable	line:23
+lives	mystuff\ex14.py	/^lives = raw_input(prompt)$/;"	kind:variable	line:15
+months	mystuff\ex9.py	/^months = "\\nJan\\nFeb\\nMar\\nApr\\nJun\\nJul\\nAug"$/;"	kind:variable	line:4
+more_stuff	mystuff\ex38.py	/^more_stuff = ["Day", "Nigth", "Song", "Frisbee", "Corn", "Banana", "Girl", "Boy"]$/;"	kind:variable	line:6
+mutiply	mystuff\ex21.py	/^def mutiply(a, b):$/;"	kind:function	line:10
+name	mystuff\ex12.py	/^name = raw_input("What's your name? ")$/;"	kind:variable	line:2
+name	mystuff\ex5.py	/^name = 'WCHM'$/;"	kind:variable	line:5
+next_one	mystuff\ex38.py	/^    next_one = more_stuff.pop()$/;"	kind:variable	line:9
+numbers	mystuff\ex33.py	/^numbers = []$/;"	kind:variable	line:8
+passengers	mystuff\ex4.py	/^passengers = 90$/;"	kind:variable	line:6
+people	mystuff\ex29.py	/^people = 20$/;"	kind:variable	line:2
+people	mystuff\ex30.py	/^people = 30 $/;"	kind:variable	line:2
+persian_cat	mystuff\ex10.py	/^persian_cat = "I'm split\\non a line."$/;"	kind:variable	line:4
+print_a_line	mystuff\ex20.py	/^def print_a_line(line_count, f):$/;"	kind:function	line:12
+print_all	mystuff\ex20.py	/^def print_all(f):$/;"	kind:function	line:6
+print_first_and_last	mystuff\ex25.py	/^def print_first_and_last(sentence):$/;"	kind:function	line:26
+print_first_and_last_sorted	mystuff\ex25.py	/^def print_first_and_last_sorted(sentence):$/;"	kind:function	line:32
+print_first_word	mystuff\ex25.py	/^def print_first_word(words):$/;"	kind:function	line:11
+print_last_word	mystuff\ex25.py	/^def print_last_word(words):$/;"	kind:function	line:16
+print_none	mystuff\ex18.py	/^def print_none():$/;"	kind:function	line:17
+print_one	mystuff\ex18.py	/^def print_one(arg1):$/;"	kind:function	line:13
+print_two	mystuff\ex18.py	/^def print_two(*args):$/;"	kind:function	line:3
+print_two_again	mystuff\ex18.py	/^def print_two_again(arg1, arg2):$/;"	kind:function	line:9
+prompt	mystuff\ex14.py	/^prompt = '>'$/;"	kind:variable	line:7
+rewind	mystuff\ex20.py	/^def rewind(f):$/;"	kind:function	line:9
+secret_formula	mystuff\ex24.py	/^def secret_formula(started):$/;"	kind:function	line:20
+sort_sentence	mystuff\ex25.py	/^def sort_sentence(sentences):$/;"	kind:function	line:21
+sort_words	mystuff\ex25.py	/^def sort_words(words):$/;"	kind:function	line:7
+space_in_a_car	mystuff\ex4.py	/^space_in_a_car = 4$/;"	kind:variable	line:4
+start	mystuff\ex35.py	/^def start():$/;"	kind:function	line:59
+start_point	mystuff\ex24.py	/^start_point = 10000$/;"	kind:variable	line:26
+start_point	mystuff\ex24.py	/^start_point = start_point  \/ 10$/;"	kind:variable	line:32
+states	mystuff\ex39.py	/^states ={$/;"	kind:variable	line:3
+stuff	mystuff\ex38.py	/^stuff = ten_things.split(' ')$/;"	kind:variable	line:5
+subtract	mystuff\ex21.py	/^def subtract(a ,b):$/;"	kind:function	line:6
+target	mystuff\ex16.py	/^target = open(filename, 'w')$/;"	kind:variable	line:13
+teeth	mystuff\ex5.py	/^teeth = 'White'$/;"	kind:variable	line:10
+ten_things	mystuff\ex38.py	/^ten_things = "Apples Oranges Crows Telephone Ligth Sugar"$/;"	kind:variable	line:2
+the_count	mystuff\ex32.py	/^the_count = [1, 2, 3, 4, 5]$/;"	kind:variable	line:2
+today_cat	mystuff\ex10.py	/^today_cat = "\\tI'm tabbed in."$/;"	kind:variable	line:2
+txt	mystuff\ex15.py	/^txt = open(filename)$/;"	kind:variable	line:6
+txt_again	mystuff\ex15.py	/^txt_again = open(file_again)$/;"	kind:variable	line:14
+w	mystuff\ex6.py	/^w = "This is the left side of..."$/;"	kind:variable	line:22
+wangchaomei	mystuff\ex3.py	/^wangchaomei =1$/;"	kind:variable	line:3
+weigth	mystuff\ex11.py	/^weigth = raw_input()$/;"	kind:variable	line:8
+weigth	mystuff\ex12.py	/^weigth = raw_input("How much do you weigth? ")$/;"	kind:variable	line:5
+weigth	mystuff\ex21.py	/^weigth = mutiply(90, 2)$/;"	kind:variable	line:22
+weigth	mystuff\ex5.py	/^weigth = 65 # KG$/;"	kind:variable	line:8
+what	mystuff\ex21.py	/^what = add(age, subtract(heigth, mutiply(weigth, divide(iq,2))))$/;"	kind:variable	line:30
+x	mystuff\ex6.py	/^x = "There are %d types of people." % 10$/;"	kind:variable	line:2
+y	mystuff\ex6.py	/^y = "Those who know %s and those who %s." % (binary, do_not)$/;"	kind:variable	line:5
