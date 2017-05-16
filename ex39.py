@@ -58,3 +58,5 @@ if not state:
 #  get a city with a default value
 city = cities.get('TX', "Does not EXist")
 print "THe city for the state 'TX' is: %s" % city
+aa = unicode("请输入销售额", encoding="utf-8")
+print aa

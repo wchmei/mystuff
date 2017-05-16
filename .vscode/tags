@@ -33,6 +33,7 @@ cats	mystuff\ex29.py	/^cats = 30$/;"	kind:variable	line:3
 change	mystuff\ex32.py	/^change = [1, 'pennies', 2, 'dimes', 3, 'quarters']$/;"	kind:variable	line:4
 cheese_and_crackers	mystuff\ex19.py	/^def cheese_and_crackers(cheese_count, boxes_of_crackers):$/;"	kind:function	line:2
 cities	mystuff\ex39.py	/^cities ={$/;"	kind:variable	line:11
+city	mystuff\ex39.py	/^city = cities.get('TX', "Does not EXist")$/;"	kind:variable	line:59
 computer	mystuff\ex14.py	/^computer = raw_input(prompt)$/;"	kind:variable	line:18
 cthulhu_room	mystuff\ex35.py	/^def cthulhu_room():$/;"	kind:function	line:42
 current_file	mystuff\ex20.py	/^current_file = open(input_file)$/;"	kind:variable	line:15
@@ -145,6 +146,7 @@ space_in_a_car	mystuff\ex4.py	/^space_in_a_car = 4$/;"	kind:variable	line:4
 start	mystuff\ex35.py	/^def start():$/;"	kind:function	line:59
 start_point	mystuff\ex24.py	/^start_point = 10000$/;"	kind:variable	line:26
 start_point	mystuff\ex24.py	/^start_point = start_point  \/ 10$/;"	kind:variable	line:32
+state	mystuff\ex39.py	/^state = states.get('Texas', None)$/;"	kind:variable	line:53
 states	mystuff\ex39.py	/^states ={$/;"	kind:variable	line:3
 stuff	mystuff\ex38.py	/^stuff = ten_things.split(' ')$/;"	kind:variable	line:5
 subtract	mystuff\ex21.py	/^def subtract(a ,b):$/;"	kind:function	line:6
