@@ -1,0 +1,191 @@
+[33mcommit 75a5b3a6655dcfd43ebff7b5fe707ddc015cbd68[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Tue May 2 20:12:10 2017 +0800
+
+    更多更多的实践
+
+[33mcommit 6aff0a36655ccb6fc3ad22b1a85724321accb34d[m
+Author: wchmei <365898377@qq.com>
+Date:   Mon May 1 21:58:12 2017 +0800
+
+    添加了注释
+
+[33mcommit b6ce0939ea2dafc2f23d7cc8a35853e268af8363[m
+Author: wchmei <365898377@qq.com>
+Date:   Mon May 1 21:50:21 2017 +0800
+
+    未添加注释
+
+[33mcommit 1f7e10839e1a46d18c0608c05f2226dc1804f439[m
+Author: wchmei <365898377@qq.com>
+Date:   Sun Apr 30 10:11:03 2017 +0800
+
+    执行函数后 add(30, 5) 就打印出函数需要打印的内容，然后age 返回了35，下面的多个嵌套函数也是同样的道理
+
+[33mcommit ba86e02057417553b17555ea2a1ddc549d430228[m
+Author: wchmei <365898377@qq.com>
+Date:   Sat Apr 29 23:20:10 2017 +0800
+
+    未添加注释，后面添加注释
+
+[33mcommit 727be20599b4433d6aa27ac1f0bc52cf21387ce7[m
+Author: wchmei <365898377@qq.com>
+Date:   Sat Apr 29 22:37:58 2017 +0800
+
+    "vscode"
+
+[33mcommit e941be81d78bb647cd874f365f188a27696d06ce[m
+Author: wchmei <365898377@qq.com>
+Date:   Sat Apr 29 22:29:51 2017 +0800
+
+    ssh
+
+[33mcommit 1cfd106ff3eab79b0dcf89da7c7d94feac401394[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Fri Apr 28 09:14:25 2017 +0800
+
+    函数和文件
+
+[33mcommit 262377aee29fc7a1117208897d0d086fc7d5e059[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Tue Apr 18 09:08:56 2017 +0800
+
+    函数和变量
+
+[33mcommit c533319c16a51038a13e0241daa6a76efc484062[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Tue Apr 18 08:32:22 2017 +0800
+
+    命名、变量、代码和函数
+
+[33mcommit 0c125131eb3392f2b51ff8b15f4d8c6b3dda916f[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Mon Apr 17 17:10:15 2017 +0800
+
+    更多文件操作,简化脚本
+
+[33mcommit 59504a7548e974248b0bcb8ebf8fe8e0fa0c8259[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Mon Apr 17 17:05:08 2017 +0800
+
+    更多文件操作
+
+[33mcommit 0a1cbcc90dd7d30e823a38a9aba8ab9ca75f0de6[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Thu Apr 13 20:07:46 2017 +0800
+
+    读写文件...
+
+[33mcommit 936c6aa05bdba9dc075d579bfa183ec3711de1be[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Thu Apr 13 08:46:16 2017 +0800
+
+    读取文件
+
+[33mcommit 2be9cc97cfe7196bc059028ec339f1dfcf055a8c[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Wed Apr 12 09:05:01 2017 +0800
+
+    提示和传递，及其说明
+
+[33mcommit 09548af99873ba4bcbb5310f4dc78cb399fbe3d5[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Wed Apr 12 08:48:56 2017 +0800
+
+    参数、解包、和变量
+
+[33mcommit d68923845ebe263519ca21d31a6151f004b47edf[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Tue Apr 11 08:50:50 2017 +0800
+
+    python -m pydoc raw_input
+
+[33mcommit 47bf991c907e4488c0800141d5aabf4a5b2abdbd[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Tue Apr 11 08:44:53 2017 +0800
+
+    raw_input 的提示用法。
+
+[33mcommit 0da2d333952904e6cc0042fcd5fe947eea7a436a[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Tue Apr 11 08:37:45 2017 +0800
+
+    添加 %r 和 %s 的说明，打印中文得用%s
+
+[33mcommit b93001f7bd9bbd9977f71b63beb0820494c88c8a[m
+Author: no_image <365898377@qq.com>
+Date:   Mon Apr 10 22:53:42 2017 +0800
+
+    提问提问
+
+[33mcommit f92a83d7f1389d27b4c8e86e6611f894ae70c739[m
+Author: no_image <365898377@qq.com>
+Date:   Mon Apr 10 22:37:32 2017 +0800
+
+    tab 转义
+
+[33mcommit 79e652c0e112d2f97ee597320872e6b473324f7d[m
+Author: no_image <365898377@qq.com>
+Date:   Mon Apr 10 22:16:02 2017 +0800
+
+    打印，打印，打印
+
+[33mcommit f3a50311c774571855678df2c29e98e8af01fe99[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Mon Apr 10 09:27:07 2017 +0800
+
+    打印，打印--添加注释
+
+[33mcommit 51daa9b5583388703ef41d78de28207badc2f73b[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Mon Apr 10 09:12:37 2017 +0800
+
+    打印，打印
+
+[33mcommit 4f7003905238346e9f39c7d1ffe73e69584eb456[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Sun Apr 9 19:23:43 2017 +0800
+
+    更多打印
+
+[33mcommit f4d51b1546672d72f4cb61bc83c1c9b9937f82e1[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Sun Apr 9 17:59:31 2017 +0800
+
+    字符串和文本 %r
+
+[33mcommit 6520ca2bc3272b84b7294c533c5da9f804b51dcd[m
+Author: wchmei <365898377@qq.com>
+Date:   Sun Apr 9 11:25:54 2017 +0800
+
+    Create README.md
+
+[33mcommit 76d14e35c84f3bc07df7f0c8cdfee07dc105bb57[m
+Author: no_image <365898377@qq.com>
+Date:   Sun Apr 9 11:18:50 2017 +0800
+
+    去掉mymy—_
+
+[33mcommit a87bbeaf0a5bdef1961ecdf5b94ea6349c86d2e4[m
+Author: no_image <365898377@qq.com>
+Date:   Sun Apr 9 11:16:19 2017 +0800
+
+    习题5
+
+[33mcommit 100361cdcb97c6375a49e8662cb6fdeb2130acae[m
+Author: no_image <365898377@qq.com>
+Date:   Sun Apr 9 10:56:51 2017 +0800
+
+    人是整数型
+
+[33mcommit b5b42778489ada2492ff8dcce7079925f07fff9f[m
+Author: no_image <365898377@qq.com>
+Date:   Sun Apr 9 10:49:21 2017 +0800
+
+    习题4
+
+[33mcommit 3413dc937d72bbffbc3e0d1b2662996cd4409a6a[m
+Author: wangchaomei <365898377@qq.com>
+Date:   Sun Apr 9 10:29:58 2017 +0800
+
+    笨方法学python,1/2/3
