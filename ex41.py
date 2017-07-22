@@ -22,7 +22,7 @@ PHRASES = {
 # do they want to drill phrases first
 PHRASES_FIRST = False
 if len(sys.argv) == 2 and sys.argv[1] == "english":
-    PHRASES = True
+    PHRASES_FIRST = True
 
 # load up the words from the website
 for word in urlopen(WORD_URL).readlines():
@@ -39,7 +39,7 @@ def convert(snippet, phrase):
         param_names.append(', '.join(random.sample(WORDS, param_count)))
 
     for sentence in snippet, phrase:
-        result = sentence[:]，
+        result = sentence[:]
 
         # fake class names
         for word in class_names:
