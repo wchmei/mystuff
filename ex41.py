@@ -8,16 +8,11 @@ import sys
 WORD_URL = "http://learncodethehardway.org/words.txt"
 WORDS = []
 PHRASES = {
-    "class %%%(%%%):":
-    "Make a class named %%% that is-a %%%.",
-    "class %%%(object):\n\tdef __init__(self, ***)":
-    "class %%% has-a __init__ that takes self and *** parameters.",
-    "class %%%(object): \n\tdef ***(self, @@@)":
-    "class %%% has-a funtion named *** that takes self and @@@ parameters.",
-    "*** = %%%()":
-    "Set *** to an instance of class %%.",
-    "***.*** = '***'":
-    "From *** get the *** attribute and set it to '***'."
+    "class %%%(%%%):":"Make a class named %%% that is-a %%%.",
+    "class %%%(object):\n\tdef __init__(self, ***)":"class %%% has-a __init__ that takes self and *** parameters.",
+    "class %%%(object): \n\tdef ***(self, @@@)":"class %%% has-a funtion named *** that takes self and @@@ parameters.",
+    "*** = %%%()":"Set *** to an instance of class %%%.",
+    "***.*** = '***'":"From *** get the *** attribute and set it to '***'."
 }
 # do they want to drill phrases first
 PHRASES_FIRST = False
@@ -30,13 +25,13 @@ for word in urlopen(WORD_URL).readlines():
 
 def convert(snippet, phrase):
     class_names = [w.capitalize() for w in
-                   random.sample(WORDS, snippet.count("%%%"))]
+                   random.sample(WORDS, snippet.count("%%%"))]#从列表中随机取x个元素添加到新的列表
     other_names = random.sample(WORDS, snippet.count("***"))
     results = []
     param_names = []
     for i in range(0, snippet.count("@@@")):
-        param_count = random.randint(1, 3)
-        param_names.append(', '.join(random.sample(WORDS, param_count)))
+        param_count = random.randint(1, 3)#随机选取1到3的数字，包括1和3
+        param_names.append(', '.join(random.sample(WORDS, param_count)))#
 
     for sentence in snippet, phrase:
         result = sentence[:]
@@ -53,7 +48,7 @@ def convert(snippet, phrase):
 try:
     while True:
         snippets = PHRASES.keys()
-        random.shuffle(snippets)
+        random.shuffle(snippets)#随机排列序列
 
         for snippet in snippets:
             phrase = PHRASES[snippet]
