@@ -1,3 +1,4 @@
+# -*- coding: utf-8 -*-
 class Parent(object):
     def altered(self):
         print "PARENT altered()"
